@@ -1,0 +1,23 @@
+/*
+Theme Name: Terraemare-gumby
+Author: giildas
+Author URI: http://giildas.fr/
+*/
+@import url("css/gumby.css");
+
+
+h5.logo{
+	display: inline-block;
+	font-family: 'just_the_way_you_areregular';
+}
+
+.navbar.inverse.fixed ul li a{
+	font-size: 14px;
+}
+
+h2{
+	font-family: 'just_the_way_you_areregular';
+	background: url('images/terreIcon.png') 0% 20% no-repeat;
+	padding-left: 60px;
+}
+
